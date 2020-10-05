@@ -13,5 +13,5 @@ The following analysis has been performed:
 4. Fit a linear regression model to predict the number of bikes that will be picked up from a station in a given hour based on the hour of day, day of week, and the number of bikes that were picked up from that station in the previous hour.
 
 -
-Vishakha Bhattacharjee
+Vishakha Bhattacharjee</br>
 MS in Business Analytics, Columbia University
